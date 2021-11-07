@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body{
+    background: rgb(255, 255, 255);
+}
+
+.bgm{
+    background: url(images/pics/markus-spiske-1LLh8k2_YFk-unsplash.jpg) center center fixed;
+    background-size: cover;
+    color: white;
+    margin-top: 10px;
+}
+
+.icon{
+    margin-right: 15px;
+}
+
+img{
+    opacity: 0.8;
+}
+
+.icon{
+    opacity: 1;
+}
+
+.con{
+    max-width: 70%;
+    margin: 2px auto;
+ 
+}
+
+.conn{
+  
+    background-size: cover;
+    
+}
+
+.samil{
+    width: 120px;
+}
+.samil-one{
+    width: 120px;
+}
+
+
+
+.border{
+    border: 3px solid black;
+}
+
+
+
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+#foot{
+    color:rgba(255,255,255,.5);
+
+   
+}
+
+
+.ert:hover{
+    border-bottom: 2px solid rgb(255, 255, 255);
+           color: rgb(0, 0, 0);
+   }   
+   
+
+
+
+
+
+
+
+
+@media only screen and (max-device-width: 768px) {
+    .con{
+        max-width: 100%;}
+
+        .imm{
+            width: 100%;
+        }
+       
+        .samil{
+            width: 60%;
+        }
+        
+        .samil-one{
+            width: 100%;
+        }
+        
+     
+    }

@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+
+html{
+    scroll-behavior: smooth;
+}
+
+
+
+.icon{
+    margin-right: 15px;
+}
+
+
+
+.con{
+    max-width: 100%;
+    margin: 2px auto;
+ 
+}
+
+.conn{
+    /* background: url(images/bg/markus-spiske-yPBgHCsKdWE-unsplash.jpg) center center fixed; */
+    background-size: cover;
+    /* color: white; */
+}
+
+
+.had{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: capitalize;
+
+    border-bottom: 2px solid gray;
+}
+
+.bgim{
+    background: url(images/bg/real-mobile-2x-1400x770.png) no-repeat fixed center center;
+    background-size: cover;
+}
+
+.op{
+    background: white;
+    
+}
+
+
+.vf{
+    overflow-y: scroll;
+    height: 350px;
+}
+
+
+.vf:hover{
+    background: url(images/bg/moon-nature-landscape-background-design-illustration-free-vector.jpg) no-repeat fixed center center;
+    background-size: cover;
+    color: white;
+   
+}
+
+
+
+
+
+.tim h2, span {
+   
+  
+    
+    font-family: 'Oxygen', sans-serif;
+
+    
+  
+
+    color: white;
+    
+}
+
+
+
+video {
+    position: relative;
+    height: auto;
+    width: 100%;
+  }
+  
+ .cen{
+     justify-self: center;
+     align-self: center;
+     
+ }
+ 
+
+
+
+
+
+
+.ert:hover{
+ border-bottom: 2px solid rgb(255, 255, 255);
+        color: rgb(0, 0, 0);
+}   
+
+
+
+
+
+
+@media only screen and (max-device-width: 480px) {
+
+
+
+
+
+   
+
+        .media{
+           
+            display: flex;
+            flex-direction: column;
+
+
+        }
+
+
+        .media {
+            justify-content: center;
+            align-items: center;
+          }
+
+
+
+        .media-body {
+            padding-top: 1em;
+            text-align: center !important;
+            margin: 0 !important;
+        }
+    
+        .media img {
+            text-align:center ;
+       
+        }
+
+        
+
+
+        
+
+    }

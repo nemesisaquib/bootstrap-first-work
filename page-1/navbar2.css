@@ -1,0 +1,44 @@
+.jjk{
+    position: relative; 
+
+   scroll-behavior: smooth;
+  }
+
+  #section1 {padding-top:50px;height:500px;color: #fff; background-color: #1E88E5;}
+  #section2 {padding-top:50px;height:500px;color: #fff; background-color: #673ab7;}
+  #section3, #section42 {padding-top:50px;height:500px;color: #fff; background-color: #ff9800;}
+  #section4 {padding-top:50px;height:500px;color: #fff; background-color: #00bcd4;}
+  #section41   {padding-top:50px;height:500px;color: #fff; background-color: #009688;}
+
+
+
+ 
+.bgg{
+    background: #464646;
+
+    
+    
+}
+
+
+  #ji a{
+    color: rgb(255, 255, 255);
+    
+}
+  #ji a:hover{
+    color: rgb(255, 224, 50);
+}
+
+#ji a:active{
+    background: rgb(218, 0, 0);
+}
+
+
+#ji a:visited{
+    background: rgb(0, 0, 0);
+    color: white;
+}
+
+.hhj{
+    scroll-behavior: smooth;
+}

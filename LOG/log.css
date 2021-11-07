@@ -1,0 +1,48 @@
+body{
+    background: url(car-5667107.jpg) no-repeat center center fixed;
+    background-size: cover;
+    ;
+}
+
+
+#logoone{
+    max-width: 100px;
+    max-height: 100px;
+    margin: 0 auto;
+}
+
+
+#click .modal-header{
+    filter: blur(1px);
+}
+
+
+.modal-content{
+    background: rgb(155, 155, 155);
+}
+
+#click .modal-dialog{
+    width: 300px;
+    text-align: center;
+  
+   
+}
+
+input[type=file]::file-selector-button{
+    
+ 
+    background:rebeccapurple;
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+input{
+    margin: 8px 0;
+}
+
+.xx{
+    font-size: 36px;
+    transition: ease-out all .5s;
+    
+}
